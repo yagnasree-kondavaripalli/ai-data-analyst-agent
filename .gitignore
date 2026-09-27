@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.env
+.DS_Store
+# Keep large/private datasets out of Git unless their license permits redistribution.
+data/*.csv
